@@ -25,7 +25,7 @@ export default async function handler(req, res) {
         'Authorization': `Bearer ${JAN_API_KEY}`
       },
       body: JSON.stringify({
-        model: 'Phi-3_5-mini-instruct_IQ4_XS', // my Jan.ai model
+        model: 'phi-3-mini', // my Jan.ai model
 
         input: message
       })

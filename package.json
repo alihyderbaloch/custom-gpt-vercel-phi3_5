@@ -1,10 +1,1 @@
-{
-"name": "custom-gpt-vercel",
-"version": "1.0.0",
-"scripts": {
-"start": "vercel dev"
-},
-"dependencies": {
-"node-fetch": "^2.6.7"
-}
-}
+{"name":"custom-gpt-vercel","version":"1.0.0","scripts":{"start":"vercel dev"},"dependencies":{"node-fetch":"^2.7.0"}}
