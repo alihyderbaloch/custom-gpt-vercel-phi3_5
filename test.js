@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 const JAN_API_KEY = 'myjan-apialihydrbot18qs';  // Jan.ai API key
-const model = 'Phi-3_5-mini-instruct_IQ4_XS'; //  Jan.ai model
+const model = 'jan-nano-128k-Q3_K_S'; //  Jan.ai model
 const message = "Hello"; // Test message
 
 try {
